@@ -1,0 +1,25 @@
+"AddonInfo"
+{
+	maps			"gemtd_coop"
+	"IsPlayable"	"1"
+	"gemtd_coop"
+	{
+		"MaxPlayers"                    "4"
+	}
+
+	"Default_Keys"
+    {
+        "01"
+        {
+            "Key"       "Z"
+            "Command"   "+CustomGameTestButton"
+            "Name"      "Example"
+        }
+        "01"
+        {
+            "Key"       "SPACE"
+            "Command"   "+CustomGameTestButton"
+            "Name"      "Example"
+        }
+    }
+}
